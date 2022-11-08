@@ -3,3 +3,7 @@
 9- echo "David Roca Tauste" > un.txt
 
 10- ps aux > /home/alumno/droca/dos/processos.txt
+
+16- cat processos.txt | grep ^root
+
+17- cat processos.txt | awk '{print $2" "$9}'
