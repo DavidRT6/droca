@@ -1,0 +1,5 @@
+8- mkdir un dos tres
+
+9- echo "David Roca Tauste" > un.txt
+
+10- ps aux > /home/alumno/droca/dos/processos.txt
